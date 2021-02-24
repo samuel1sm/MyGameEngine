@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\sora-\source\repos\MyGameEngine\MyGameEngine\Source.cpp(3,36): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\sora-\source\repos\MyGameEngine\MyGameEngine\Source.cpp(11,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\sora-\source\repos\MyGameEngine\MyGameEngine\Source.cpp(11,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  MyGameEngine.vcxproj -> C:\Users\sora-\source\repos\MyGameEngine\x64\Debug\MyGameEngine.exe
